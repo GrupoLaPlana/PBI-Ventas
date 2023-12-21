@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": null,
+    "byConnection": {
+      "connectionString": "Data Source=POWERBIPROD\\DWHPOWERBI;Initial Catalog=DWH_CLP_SSAS_DIRECCION;Cube=Modelo",
+      "pbiServiceModelId": null,
+      "pbiModelVirtualServerName": null,
+      "pbiModelDatabaseName": null,
+      "name": "EntityDataSource",
+      "connectionType": "analysisServicesDatabaseLive"
+    }
+  }
+}

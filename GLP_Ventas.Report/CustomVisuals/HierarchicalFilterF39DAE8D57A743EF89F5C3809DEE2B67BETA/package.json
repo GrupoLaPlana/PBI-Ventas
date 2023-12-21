@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "author": {
+    "name": "xViz LLC",
+    "email": "support@xviz.com"
+  },
+  "resources": [
+    {
+      "resourceId": "rId0",
+      "sourceType": 5,
+      "file": "resources/HierarchicalFilterF39DAE8D57A743EF89F5C3809DEE2B67BETA.pbiviz.json"
+    }
+  ],
+  "visual": {
+    "guid": "HierarchicalFilterF39DAE8D57A743EF89F5C3809DEE2B67BETA",
+    "name": "Hierarchical Filter",
+    "displayName": "Hierarchical Filter - xViz - beta",
+    "version": "1.2.0",
+    "description": "Displays multiple category values in a tree structure",
+    "supportUrl": "https://xviz.com/",
+    "gitHubUrl": "",
+    "visualClassName": "HierarchicalFilter"
+  },
+  "metadata": {
+    "pbivizjson": {
+      "resourceId": "rId0"
+    }
+  }
+}
